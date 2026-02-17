@@ -1,5 +1,6 @@
 # SPDX-PackageSummary: rf-lint
-# SPDX-FileCopyrightText: Copyright (C) 2025 Ryan Finnie
+# SPDX-FileComment: GitHub Actions pre-commit workflow
+# SPDX-FileCopyrightText: © 2025 Ryan Finnie <ryan@finnie.org>
 # SPDX-License-Identifier: MPL-2.0
 ---
 name: "pre-commit"
