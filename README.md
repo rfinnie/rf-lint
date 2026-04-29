@@ -10,7 +10,7 @@ This document is provided under the following license:
 
     SPDX-PackageName: rf-lint
     SPDX-PackageSupplier: Ryan Finnie <ryan@finnie.org>
-    SPDX-PackageDownloadLocation: https://github.com/rfinnie/rf-lint
+    SPDX-PackageDownloadLocation: https://codeberg.org/rfinnie/rf-lint
     SPDX-FileComment: README
     SPDX-FileCopyrightText: SPDX-FileCopyrightText: © 2025 Ryan Finnie <ryan@finnie.org>
     SPDX-License-Identifier: CC-BY-SA-4.0
